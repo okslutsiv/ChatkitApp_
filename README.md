@@ -13,4 +13,4 @@ https://pusher.com/docs/chatkit
 - conditional autoscroll to the bottom of the list on a new message published
 - plain css
 - grid display
-- css variables for the root components
+- css variables for the root component
